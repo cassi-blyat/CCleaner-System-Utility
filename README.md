@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-
+   </a>
+   
+<p align="center">
 <a href="#-installation-procedure">
       <img src="https://img.shields.io/badge/Instruction-C0C0C0?style=for-the-badge&logo=sparkles&logoColor=white"/>
     </a>
